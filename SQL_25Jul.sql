@@ -8,8 +8,8 @@ Sex varchar(10));
 
 insert into test values('Vinay', 20, 'Male');
 insert into test values('Baggu', 21, 'Male');
-insert into test values('Vaibhav', 21, 'Female');
-insert into test values('Raksha', 21, 'Female');
+insert into test values('Vaibhavi', 21, 'Female');
+insert into test values('Amber', 21, 'Male');
 
 select * from test;
 
